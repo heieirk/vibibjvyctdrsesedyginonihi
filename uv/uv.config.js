@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/',
-    bare: 'https://vioserver.herokuapp.com/bare/',
+    bare: 'https://uv.up.railway.app/',
     encodeUrl: Ultraviolet.codec.base64.encode,
     decodeUrl: Ultraviolet.codec.base64.decode,
     handler: '/uv/uv.handler.js',

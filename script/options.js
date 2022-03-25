@@ -94,7 +94,7 @@ async function options(app) {
     });
 
     selection.switchSelector(localStorage.getItem('incog||appearance'));
-    backgroundSelection.switchSelector((localStorage.getItem('incog||background') || 'none'));
+    backgroundSelection.switchSelector((localStorage.getItem('incog||background') || 'particles'));
 
     tabs.on('switch', id => {
         document.querySelectorAll('[data-selected]').forEach(node => {

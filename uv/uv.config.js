@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/service/',
-    bare: 'https://ultra-virid.vercel.app/bare/',
+    bare: 'https://uv.up.railway.app/bare/',
     encodeUrl: Ultraviolet.codec.base64.encode,
     decodeUrl: Ultraviolet.codec.base64.decode,
     handler: '/uv/uv.handler.js',

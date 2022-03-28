@@ -203,9 +203,9 @@ document.querySelector('.access-panel').addEventListener('mouseenter', async eve
     };
 });
 
-app.on('default', access);
+app.on('#apps', access);
 app.on('#gs', gs);
-app.on('#apps', apps);
+app.on('default', apps);
 app.on('#settings', options);
 app.on('#support', support);
 app.on('#community', community);

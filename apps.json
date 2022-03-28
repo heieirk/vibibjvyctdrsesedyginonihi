@@ -40,8 +40,8 @@
         "location": "https://www.tiktok.com"
     },
     {
-        "title": "Retro Arch",
-        "img": "./img/apps/retroarch.png",
+        "title": "シャニマス",
+        "img": "./img/shiny.jpg",
         "location": "./source/retroarch/"
     },
     {

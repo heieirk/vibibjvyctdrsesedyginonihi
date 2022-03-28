@@ -9,8 +9,6 @@ function access(app) {
     app.search.submit.style.display = 'inline';
     app.search.input.style.removeProperty('display');
     app.search.input.placeholder = 'Search the web';
-    app.search.input.setAttribute('list','www');
-    app.search.detalist.setAttribute('www','www');
     app.header.target.setAttribute('data-page', '');
     app.nav.target.style.removeProperty('display');
     document.querySelector('#open-nav').setAttribute('data-open', '');

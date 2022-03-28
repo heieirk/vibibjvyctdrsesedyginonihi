@@ -1,8 +1,8 @@
 [
     {
-        "title": "Google",
+        "title": "url",
         "img": "./img/apps/google.jpg",
-        "location": "https://www.google.com"
+        "location": "./"
     },
     {
         "title": "Youtube",

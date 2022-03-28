@@ -1,42 +1,32 @@
 [
     {
         "title": "url",
-        "img": "./img/apps",
+        "img": "./img/url.jpg",
         "location": "./#apps"
     },
     {
         "title": "Youtube",
-        "img": "./img/apps/yt.png",
+        "img": "./img/yt.jpg",
         "location": "https://www.youtube.com"
     },
     {
         "title": "Spotify",
-        "img": "./img/apps/spot.png",
+        "img": "./img/spot.jpg",
         "location": "https://open.spotify.com"
     },
     {
         "title": "Twitter",
-        "img": "./img/apps/twt.png",
-        "location": "https://twitter.com/explore"
-    },
-    {
-        "title": "Reddit",
-        "img": "./img/apps/rt.png",
-        "location": "https://reddit.com"
-    },
-    {
-        "title": "Twitch",
-        "img": "./img/apps/tich.jpg",
-        "location": "https://twitch.tv"
+        "img": "./img/twt.jpg",
+        "location": "https://twitter.com/RusEmbassyJ"
     },
     {
         "title": "Discord",
-        "img": "./img/apps/dd.jpg",
-        "location": "https://discord.com/app"
+        "img": "./img/dis.jpg",
+        "location": "https://discord.com/login"
     },
     {
         "title": "Tik Tok",
-        "img": "./img/apps/tt.jpg",
+        "img": "./img/tt.jpg",
         "location": "https://www.tiktok.com"
     },
     {
@@ -51,12 +41,7 @@
     },
     {
         "title": "Geforce Now",
-        "img": "./img/apps/gfnow.png",
+        "img": "./img/gfnow.jpg",
         "location": "https://play.geforcenow.com"
     },
-    {
-        "title": "Y8",
-        "img": "./img/apps/y8.png",
-        "location": "https://www.y8.com"
-    }
 ]

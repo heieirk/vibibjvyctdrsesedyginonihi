@@ -42,12 +42,12 @@
     {
         "title": "シャニマス",
         "img": "./img/shiny.jpg",
-        "location": "./source/retroarch/"
+        "location": "https://shinycolors.enza.fun/"
     },
     {
-        "title": "CoolMathGames",
-        "img": "./img/apps/cmg.png",
-        "location": "https://www.coolmathgames.com"
+        "title": "DMM",
+        "img": "./img/dmm.jpg",
+        "location": "https://accounts.dmm.com/service/login/password/=/ref=main_top"
     },
     {
         "title": "Geforce Now",

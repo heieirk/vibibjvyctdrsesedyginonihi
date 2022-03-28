@@ -1,3 +1,44 @@
+async function apps(app) {
+    app.search.back.href = '#apps';
+
+    app.main.library = app.createElement('div', await compileGs(app), {
+        class: 'gs-library',
+        style: {}
+    });
+    app.main.emptySearch = app.createElement('div', [
+        app.createElement('p', 'No results found.'),
+    ], {
+        class: 'gs-empty',
+        style: {
+            display: 'none'
+        }
+    });
+
+    app.search.input.setAttribute(
+        'oninput',
+        '(' + (function() {
+            let count = 0;
+
+            app.main.library.querySelectorAll('.gs-entry').forEach(node => {
+                if (node.getAttribute('data-title').toLowerCase().includes(app.search.input.value.toLowerCase())) {
+                    node.style.display = 'block';
+                    count++;
+                } else {
+                    node.style.display = 'none';
+                };
+            }); 
+
+            if (!count) {
+                app.main.library.style.display = 'none';
+                app.main.emptySearch.style.display = 'block';
+            } else {
+                app.main.library.style.removeProperty('display');
+                app.main.emptySearch.style.display = 'none';
+            };
+        }).toString() + ')()'
+    )
+};
+
 async function compileGs(app) {
     const res = await fetch('./apps.json');
     const json = await res.json();

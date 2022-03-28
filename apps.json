@@ -7,7 +7,7 @@
     {
         "title": "Youtube",
         "img": "./img/yt.jpg",
-        "location": "https://www.youtube.com"
+        "location": "https://m.youtube.com"
     },
     {
         "title": "Spotify",
@@ -17,7 +17,7 @@
     {
         "title": "Twitter",
         "img": "./img/twt.jpg",
-        "location": "https://twitter.com/RusEmbassyJ"
+        "location": "https://mobile.twitter.com/RusEmbassyJ"
     },
     {
         "title": "Discord",

@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Σ（ﾟдﾟlll）"
+AuthUserFile /app/.htpasswd
+require valid-user

@@ -17,22 +17,22 @@
     {
         "title": "Spotify",
         "img": "./img/spot.jpg",
-        "location": "https://open.spotify.com"
+        "location": "https://open.spotify.com/"
     },
     {
         "title": "Twitter",
         "img": "./img/twt.jpg",
-        "location": "https://mobile.twitter.com/RusEmbassyJ"
+        "location": "https://mobile.twitter.com/RusEmbassyJ/"
     },
     {
         "title": "Discord",
         "img": "./img/dis.JPG",
-        "location": "https://discord.com/login"
+        "location": "https://discord.com/login/"
     },
     {
         "title": "Tik Tok",
         "img": "./img/tt.jpg",
-        "location": "https://www.tiktok.com"
+        "location": "https://www.tiktok.com/ja-JP/"
     },
     {
         "title": "insta",
@@ -47,7 +47,7 @@
     {
         "title": "DMM",
         "img": "./img/dmm.jpg",
-        "location": "https://accounts.dmm.com/service/login/password/=/ref=main_top"
+        "location": "https://accounts.dmm.com/service/login/password/=/ref=main_top/"
     },
     {
         "title": "gb",
@@ -57,6 +57,6 @@
     {
         "title": "Geforce Now",
         "img": "./img/gfnow.jpg",
-        "location": "https://play.geforcenow.com"
+        "location": "https://play.geforcenow.com/"
     }
 ]

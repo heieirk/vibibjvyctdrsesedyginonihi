@@ -5,6 +5,41 @@
         "location": "./#apps"
     },
     {
+        "title": "minecraft",
+        "img": "./img/minecraft.jpg",
+        "location": "https://now.gg/apps/mojang/2534/minecraft-trial.html"
+    },
+    {
+        "title": "Youtube",
+        "img": "./img/among.JPG",
+        "location": "https://now.gg/apps/innersloth-llc/4047/among-us.html"
+    },
+    {
+        "title": "Youtube",
+        "img": "./img/angry.jpg",
+        "location": "https://now.gg/apps/rovio-entertainment/4902/angry-birds2.html"
+    },
+    {
+        "title": "Youtube",
+        "img": "./img/id5.PNG",
+        "location": "https://now.gg/apps/netease-games/1528/identity-v.html"
+    },
+    {
+        "title": "Youtube",
+        "img": "./img/hole.jpg",
+        "location": "https://now.gg/apps/voodoo/6188/holeio.html"
+    },
+    {
+        "title": "Youtube",
+        "img": "./img/pubg.jpg",
+        "location": "https://now.gg/apps/proxima-beta/2609/pubg-mobile-resistance.html"
+    },
+    {
+        "title": "Youtube",
+        "img": "./img/punishing.JPG",
+        "location": "https://now.gg/apps/kuro-technology/9609/gray-raven.html"
+    },
+    {
         "title": "Youtube",
         "img": "./img/yt.jpg",
         "location": "https://m.youtube.com"

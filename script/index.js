@@ -36,7 +36,7 @@ app.destroyParticles = function() {
 document.querySelector('#open-nav').addEventListener('click', app.openNav);
 document.querySelector('#close-nav').addEventListener('click', app.closeNav);
 
-document.title = localStorage.getItem('incog||title') || 'Black Chart';
+document.title = localStorage.getItem('incog||title') || 'はばたく規制回避サイト';
 window.icon = document.querySelector('#favicon');
 
 icon.href = localStorage.getItem('incog||icon') || './index.svg';
